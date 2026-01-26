@@ -1,0 +1,15 @@
+{
+  "name": "robertn702",
+  "description": "Personal Claude Code plugins",
+  "owner": {
+    "name": "robertn702"
+  },
+  "plugins": [
+    {
+      "name": "self-improve",
+      "description": "Meta-prompting tools for creating commands, improving commands, agents, and managing Claude memory files",
+      "version": "1.0.0",
+      "source": "./plugins/self-improve"
+    }
+  ]
+}
