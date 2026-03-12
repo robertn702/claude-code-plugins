@@ -1,0 +1,8 @@
+{
+  "name": "tsgo-lsp",
+  "version": "1.0.0",
+  "description": "TypeScript language server powered by tsgo (TypeScript 7 native Go compiler) for 7-10x faster type checking",
+  "author": {
+    "name": "robertn702"
+  }
+}

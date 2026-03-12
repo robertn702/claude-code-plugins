@@ -10,6 +10,12 @@
       "description": "Meta-prompting tools for creating commands, improving commands, agents, and managing Claude memory files",
       "version": "1.0.0",
       "source": "./plugins/self-improve"
+    },
+    {
+      "name": "tsgo-lsp",
+      "description": "TypeScript language server powered by tsgo (TypeScript 7 native Go compiler) for 7-10x faster type checking",
+      "version": "1.0.0",
+      "source": "./plugins/tsgo-lsp"
     }
   ]
 }
