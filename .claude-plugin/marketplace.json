@@ -16,6 +16,12 @@
       "description": "TypeScript language server powered by tsgo (TypeScript 7 native Go compiler) for 7-10x faster type checking",
       "version": "1.0.0",
       "source": "./plugins/tsgo-lsp"
+    },
+    {
+      "name": "openspec",
+      "description": "Spec-driven workflow for exploring, proposing, implementing, and archiving changes",
+      "version": "1.0.0",
+      "source": "./plugins/openspec"
     }
   ]
 }

@@ -29,3 +29,4 @@ plugins/
 |---|---|
 | `self-improve` | Meta-prompting tools for creating/improving commands, agents, and managing Claude memory |
 | `tsgo-lsp` | TypeScript LSP powered by tsgo (TypeScript 7 native Go compiler). Requires `npm install -g @typescript/native-preview` |
+| `openspec` | Spec-driven workflow for exploring, proposing, implementing, and archiving changes. Requires `openspec` CLI |
