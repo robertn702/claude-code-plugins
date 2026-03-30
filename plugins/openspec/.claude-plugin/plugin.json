@@ -1,0 +1,8 @@
+{
+  "name": "openspec",
+  "version": "1.0.0",
+  "description": "Spec-driven workflow for exploring, proposing, implementing, and archiving changes",
+  "author": {
+    "name": "robertn702"
+  }
+}
